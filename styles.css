@@ -1,0 +1,43 @@
+body {
+    background-color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+    text-align: center;
+    border:  2px solid black;
+}
+.title {
+    text-align: end;
+    background-color: beige;
+}
+
+img {
+    border-radius: 5%;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+p{
+    font-style: italic;
+}
+#home {
+    border: 2px solid black;
+    text-decoration:solid;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ol{
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 3%;
+}
